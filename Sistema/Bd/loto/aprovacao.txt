@@ -1,0 +1,2 @@
+{"chave": "2", "maquina": "I-571", "registro_bloquear": "9227", "registro_desbloquear": "9227", "data_bloquear": "None", "data_desbloquear": "None", "verificador_bloqueio": "", "verificador_data_bloqueio": "", "verificador_desbloqueio": "", "verificador_data_desbloqueio": ""}
+{"chave": "2", "maquina": "I-571", "registro_bloquear": "9227", "registro_desbloquear": "9227", "data_bloquear": "None", "data_desbloquear": "None", "verificador_bloqueio": "", "verificador_data_bloqueio": "", "verificador_desbloqueio": "", "verificador_data_desbloqueio": "", "tipo": "LOTTO"}

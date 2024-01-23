@@ -1,0 +1,1 @@
+{"chave": "3", "maquina": "I-1611-A", "registro_bloquear": "10109", "data_bloquear": "None", "verificador_bloqueio": "", "verificador_data_bloqueio": ""}

@@ -1,0 +1,23 @@
+[
+    {"Registro": "14201", "Nome": "Leandro Garcia", "Cargo": "Eletricista", "Turno": "2", "Aniversario": "26/11/2023", "Imagem": "LeandroGarcia.jpg","Senha":"123456"},
+    {"Registro": "12458", "Nome": "Eder Parolezi", "Cargo": "Eletricista", "Turno": "M", "Aniversario": "26/11/2023", "Imagem": "EderParolezi.jpg","Senha":"123456"},
+    {"Registro": "9572", "Nome": "Diego Rafael da Silva", "Cargo": "Eletricista", "Turno": "M", "Aniversario": "26/11/2023", "Imagem": "DiegoRafaeldaSilva.jpg","Senha":"123456"},
+    {"Registro": "9223", "Nome": "Leandro Matias da Silva", "Cargo": "Eletricista", "Turno": "3", "Aniversario": "26/11/2023", "Imagem": "LeandroMatiasdaSilva.jpg","Senha":"123456"},
+    {"Registro": "9125", "Nome": "Jhonata Ramos", "Cargo": "Eletricista", "Turno": "1", "Aniversario": "26/11/2023", "Imagem": "JhonataRamos.jpg","Senha":"123456"},
+    {"Registro": "13418", "Nome": "Fabiano Borges", "Cargo": "Eletricista", "Turno": "1", "Aniversario": "26/11/2023", "Imagem": "FabianoBorges.jpg","Senha":"123456"},
+    {"Registro": "14481", "Nome": "Regis Silva", "Cargo": "Eletricista", "Turno": "2", "Aniversario": "26/11/2023", "Imagem": "RegisSilva.jpg","Senha":"123456"},
+    {"Registro": "15074", "Nome": "Anderson Joioso", "Cargo": "Eletricista", "Turno": "M", "Aniversario": "26/11/2023", "Imagem": "AndersonJoioso.jpg", "Senha":"123456"},
+    {"Registro": "8593", "Nome": "Leandro Jose Gomes", "Cargo": "Mecanico", "Turno": "3", "Aniversario": "26/11/2023", "Imagem": "LeandroJoseGomes.jpg", "Senha":"123456"},
+    {"Registro": "9227", "Nome": "Thiago Penharvel Fogagnolo", "Cargo": "Mecanico", "Turno": "M", "Aniversario": "26/11/2023", "Imagem": "ThiagoPenharvelFogagnolo.jpg", "Senha":"123456"},
+    {"Registro": "8267", "Nome": "Josuel de Lima", "Cargo": "Mecanico", "Turno": "M", "Aniversario": "26/11/2023", "Imagem": "JosueldeLima.jpg", "Senha":"123456"},
+    {"Registro": "9194", "Nome": "Anderson Sampaio", "Cargo": "Mecanico", "Turno": "1", "Aniversario": "26/11/2023", "Imagem": "AndersonSampaio.jpg", "Senha":"123456"},
+    {"Registro": "12757", "Nome": "Wilson Ramos", "Cargo": "Mecanico", "Turno": "1", "Aniversario": "26/11/2023", "Imagem": "WilsonRamos.jpg", "Senha":"123456"},
+    {"Registro": "10109", "Nome": "Luis Kamimura", "Cargo": "Mecanico", "Turno": "2", "Aniversario": "26/11/2023", "Imagem": "LuisKamimura.jpg", "Senha":"123456"},
+    {"Registro": "12895", "Nome": "Cristiano Ferreira da Silva", "Cargo": "Mecanico", "Turno": "2", "Aniversario": "26/11/2023", "Imagem": "CristianoFerreiradaSilva.jpg", "Senha":"123456"},
+    {"Registro": "12900", "Nome": "David Thiago Gomes", "Cargo": "Mecanico", "Turno": "M", "Aniversario": "26/11/2023", "Imagem": "DavidThiagoGomes.jpg", "Senha":"123456"},
+    {"Registro": "14878", "Nome": "Carlos Eduardo Tozzeti Jr", "Cargo": "Mecanico", "Turno": "3", "Aniversario": "26/11/2023", "Imagem": "CarlosEduardoTozzetiJr.jpg", "Senha":"123456"},
+    {"Registro": "15032", "Nome": "Flavio Ferracini", "Cargo": "Mecanico", "Turno": "M", "Aniversario": "26/11/2023", "Imagem": "FlavioFerracini.jpg", "Senha":"123456"},
+    {"Registro": "15033", "Nome": "José Henrique da Silva", "Cargo": "Mecanico", "Turno": "M", "Aniversario": "26/11/2023", "Imagem": "JoseHenriquedaSilva.jpg", "Senha":"123456"},
+    {"Registro": "14895", "Nome": "Rafael Souza", "Cargo": "Mecanico", "Turno": "M", "Aniversario": "26/11/2023", "Imagem": "RafaelSouza.jpg", "Senha":"123456"},
+    {"Registro": "31231", "Nome": "Igor Cortez", "Cargo": "Adm", "Turno": "M", "Aniversario": "26/11/2023", "Imagem": "RafaelSouza.jpg", "Senha":"123456"}
+]
